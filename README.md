@@ -14,4 +14,9 @@ To extract the feather of human voice, the best method will be MFCC which is mel
     We want to achieve this by Matlab. As it describes in part 2, we can design an efficient algorithm to get the feather voice value and compare it with singers’ in database to classify the voice. <br>
 * C. The last step is how to give the suggestion back to user. <br>
     Since our server will be built by Java, so it might be easier upload or download the file to the remote mobile. Once classified the voice, singer list and song list will be generated base on it. Send the suggestions to our APP so that the user can clearly know which singers are suitable for themselves.
+## 4. Framework Building
+
+This is our App framwork, we have already maken it come ture in our preliminary plan and we will improve it in the future work.
+ <br>
+![](https://github.com/markbs123/Android-Voice-Recognition-APP/raw/master/APP Frame.jpg)  
 
